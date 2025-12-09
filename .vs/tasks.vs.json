@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-calculator",
+      "appliesTo": "Программирование корпоративных систем/ПР1/calculator.cs",
+      "type": "launch"
+    }
+  ]
+}
